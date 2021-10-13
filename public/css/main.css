@@ -1,0 +1,16 @@
+body{
+    background-color: gold;
+}
+
+h1{
+    color:#f0f;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+#daily-image{
+    width: 50%;
+}
